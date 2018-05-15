@@ -35,8 +35,8 @@ namespace Tng.IdentityServer
                 {
                     options.SignInScheme = IdentityServerConstants.ExternalCookieAuthenticationScheme;
 
-                    options.ClientId = "114269938808-gvhr06t47qgg5rm4bonu2gj86mvkrk4r.apps.googleusercontent.com";
-                    options.ClientSecret = "7xFNk8ZWaqReK3j36LPhXNFr";
+                    options.ClientId = "204600520909-9bq621dn0qk9p9udresupebm1395cio3.apps.googleusercontent.com";
+                    options.ClientSecret = "Smc5Med-DbBMEnmV4W5Mcx2X";
                 });
             //.AddOpenIdConnect("oidc", "OpenID Connect", options =>
             //{
