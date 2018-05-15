@@ -23,6 +23,7 @@ namespace Tng.IdentityServer
             {
                 new ApiResource("CoreApi", "Mdp.Core API"),
                 new ApiResource("AnalyticsApi", "Mdp.Analytics API")
+                //
             };
         }
 
